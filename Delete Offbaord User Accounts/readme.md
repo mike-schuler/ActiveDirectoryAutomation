@@ -1,0 +1,1 @@
+Simple Script to automaticly delete offboarded users accounts after existing 30 days in the term ou.
